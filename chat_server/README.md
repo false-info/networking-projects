@@ -5,7 +5,7 @@ this is a small project to improve my skills for bigger projects like multiplaye
 basically only on the same internet
 
 # chat_admain
-its admin ofc, so you can run "/info <username>" for info about the user and "list" to see all the clients 
+its admin ofc, so you can run "/info (username)" for info about the user and "list" to see all the clients 
 
 # chat_client
 you can only see what others are texting and you can text them too
